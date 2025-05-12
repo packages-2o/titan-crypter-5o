@@ -2,7 +2,7 @@
 
 
 
-titan Crypter-5o
+titan crypter-5o
 
 edr/upp bypass
 fud stub (avcheck, kleenscan, websec, run4me, dyn)
